@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Omar Kassam",
+    "description": "",
+    "home_page_url": "https://omarkassam.com",
+    "feed_url": "https://omarkassam.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omar Kassam"
+    },
+    "items": [
+        {
+            "id": "https://omarkassam.com/a-little-bit-about-me/",
+            "url": "https://omarkassam.com/a-little-bit-about-me/",
+            "title": "A little bit about me",
+            "summary": "Hi! My name is Omar Kassam and I'm a Musician and Filmmaker from the UK! Music has been a passion of mine from an early age, and I've always loved to sing and play. I've been playing the Piano since I was six years old&hellip;",
+            "content_html": "<p>Hi! My name is Omar Kassam and I'm a Musician and Filmmaker from the UK!</p>\n<p>Music has been a passion of mine from an early age, and I've always loved to sing and play.</p>\n<p>I've been playing the Piano since I was six years old and I'm Grade 4 level, soon to start working on Grade 5! I first picked up a guitar at the age of 2, and instantly fell in love! I've owned a guitar pretty much my whole life, but only started taking lessons in 2019. I'm currently working towards Grade 3.</p>\n<p>Music Production is something that I've always found interesting. I absolutely love just messing around with all the different sounds, adding effects and making cool sounds!</p>\n<p>Filmmaking is another passion of mine. It's amazing what you can do with software! Currently during the Covid lockdown period I have been producing a number of videos for my school, which has really helped to improve my skill! At the time of writing my dream career is to become a film editor at a large movie company like Disney or Illumination.</p>",
+            "author": {
+                "name": "Omar Kassam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-02T13:56:09+00:00",
+            "date_modified": "2021-02-02T13:56:09+00:00"
+        }
+    ]
+}

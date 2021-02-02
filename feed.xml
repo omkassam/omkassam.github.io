@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Omar Kassam</title>
+    <link href="https://omarkassam.com/feed.xml" rel="self" />
+    <link href="https://omarkassam.com" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Omar Kassam</name>
+    </author>
+    <id>https://omarkassam.com</id>
+
+    <entry>
+        <title>A little bit about me</title>
+        <author>
+            <name>Omar Kassam</name>
+        </author>
+        <link href="https://omarkassam.com/a-little-bit-about-me/"/>
+        <id>https://omarkassam.com/a-little-bit-about-me/</id>
+
+        <updated>2021-02-02T13:56:09+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi! My name is Omar Kassam and I'm a Musician and Filmmaker from the UK! Music has been a passion of mine from an early age, and I've always loved to sing and play. I've been playing the Piano since I was six years old&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi! My name is Omar Kassam and I'm a Musician and Filmmaker from the UK!</p>
+<p>Music has been a passion of mine from an early age, and I've always loved to sing and play.</p>
+<p>I've been playing the Piano since I was six years old and I'm Grade 4 level, soon to start working on Grade 5! I first picked up a guitar at the age of 2, and instantly fell in love! I've owned a guitar pretty much my whole life, but only started taking lessons in 2019. I'm currently working towards Grade 3.</p>
+<p>Music Production is something that I've always found interesting. I absolutely love just messing around with all the different sounds, adding effects and making cool sounds!</p>
+<p>Filmmaking is another passion of mine. It's amazing what you can do with software! Currently during the Covid lockdown period I have been producing a number of videos for my school, which has really helped to improve my skill! At the time of writing my dream career is to become a film editor at a large movie company like Disney or Illumination.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
