@@ -10,6 +10,26 @@
     <id>https://omarkassam.com</id>
 
     <entry>
+        <title>Site under development</title>
+        <author>
+            <name>Omar Kassam</name>
+        </author>
+        <link href="https://omarkassam.com/site-under-development/"/>
+        <id>https://omarkassam.com/site-under-development/</id>
+
+        <updated>2021-02-02T14:15:54+00:00</updated>
+            <summary>
+                <![CDATA[
+                    I'm currently still developing this site to make it as awesome as I possibly can! Check back later :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm currently still developing this site to make it as awesome as I possibly can! Check back later :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>A little bit about me</title>
         <author>
             <name>Omar Kassam</name>
@@ -17,7 +37,7 @@
         <link href="https://omarkassam.com/a-little-bit-about-me/"/>
         <id>https://omarkassam.com/a-little-bit-about-me/</id>
 
-        <updated>2021-02-02T14:11:14+00:00</updated>
+        <updated>2021-02-02T14:15:54+00:00</updated>
             <summary>
                 <![CDATA[
                     Hi! My name is Omar Kassam and I'm a Musician and Filmmaker from the UK! Music has been a passion of mine from an early age, and I've always loved to sing and play. I've been playing the Piano since I was six years old&hellip;
